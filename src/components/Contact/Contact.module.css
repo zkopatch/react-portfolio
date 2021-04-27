@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Paytone+One&display=swap");
+
+.Contact {
+  text-align: left;
+  margin: 100px;
+  background-color: #288b29;
+  border-radius: 15px 50px;
+  border-width: 10px;
+  padding: 10px 30px;
+}
+
+.Title {
+  font-family: "Paytone One", sans-serif !important;
+  display: inline-block;
+  background-color: black;
+  border-radius: 15px 50px;
+  border-width: 10px;
+  padding: 10px 30px;
+}
+
+.SubTitle {
+  font-family: "Paytone One", sans-serif !important;
+}
+
+a,
+li {
+  text-decoration: none;
+}

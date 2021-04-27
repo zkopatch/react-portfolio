@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Paytone+One&display=swap");
+
+.Signature {
+  color: #22aa20;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-size: initial;
+  padding-left: 20px;
+}
+
+.Title {
+  height: 40%;
+  color: #595958;
+  font-size: 1.3em;
+}
+
+.Name {
+  font-family: "Paytone One", sans-serif !important;
+  color: #288b29;
+  font-size: 1.9em;
+  height: 60%;
+}

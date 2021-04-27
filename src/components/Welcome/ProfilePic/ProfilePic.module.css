@@ -1,0 +1,15 @@
+.ProfilePic {
+  background-color: black;
+  border-radius: 250px;
+  height: 320px;
+  width: 320px;
+}
+
+.ProfilePic img {
+  height: 300px;
+  width: 300px;
+  border-radius: 250px;
+  border-width: 10px;
+  border-style: double;
+  border-color: #105511;
+}
