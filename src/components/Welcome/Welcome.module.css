@@ -1,0 +1,23 @@
+.Welcome {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Greeting {
+  text-align: left;
+  background-color: #288b29;
+  border-radius: 15px 50px;
+  border-width: 10px;
+  padding: 10px 30px;
+}
+
+.Title {
+  display: inline-block;
+  font-family: "Paytone One", sans-serif !important;
+  background-color: black;
+  border-radius: 15px 50px;
+  border-width: 10px;
+  padding: 10px 30px;
+}
